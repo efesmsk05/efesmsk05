@@ -42,7 +42,7 @@
 ### 📊 GitHub Stats
 <div align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KULLANICI_ADINI_BURAYA_YAZ&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+  <img height="180em" src="https://www.linkedin.com/in/efe-%C5%9Fim%C5%9Fek-b41619356/" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KULLANICI_ADINI_BURAYA_YAZ&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
 </a>
 </div>
