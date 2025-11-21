@@ -6,7 +6,8 @@
 
   ### Jr. Game Developer | Unity & C# Enthusiast
 
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWtxM3pwcnh4aHZrdmVwcG12b2wzb2wzb2wzb2wzb2wzb2wzb2wzbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LpFLd9V79nZ5fJ1u1p/giphy.gif" width="600" height="200" alt="Game Dev Banner"/>
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmxmdXl4YnA2NXB3enM3aThndG91aDRlcWplcGgyOG16N2hweWdtNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqmupuTVZYaQX5s094/giphy.gif" width="600" height="200" alt="Game Dev Banner"/>
+  
   
   ---
   
