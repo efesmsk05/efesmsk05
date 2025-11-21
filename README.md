@@ -31,21 +31,14 @@
 - 🛡️ **Co-Op 3D Game:** Developing a multiplayer game with a team using Unity & Mirror.
 - 📱 **Mobile Projects:** Hyper-casual mechanics and optimization.
 
+
+
 ### 🚀 My Projects (Pinned)
 | Project | Description | Tech |
 | :--- | :--- | :--- |
-| **HopHop2D_Runner** | An endless runner game with dynamic obstacle generation. | C#, Unity 2D |
+| **2DCoopPlatformerMirror** | Real-time Co-op multiplayer puzzle game using **Mirror**. Features a robust character controller built with **Finite State Machine (FSM)**. | C#, Unity, Mirror |
+| **HopHop2D_Runner** | An endless runner game with dynamic obstacle generation and Object Pooling system. | C#, Unity 2D |
 | **2DCombatMobile** | Mobile combat mechanics testing and touch input systems. | C#, Unity Mobile |
-
----
-
-### 📊 GitHub Stats
-<div align="center">
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=efesmsk05&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=efesmsk05&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-</a>
-</div>
 
 ---
 
