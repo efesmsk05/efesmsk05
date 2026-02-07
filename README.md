@@ -11,7 +11,7 @@
   
   ---
   
-  I am a second-year **Game Development** student at **Ege University**. I am passionate about creating immersive mechanics and polished gameplay experiences. Currently developing 2D/3D games and looking for **Internship opportunities**.
+  I am a second-year **Game Development** student at **Ege University**. I am passionate about creating immersive mechanics and polished gameplay experiences. Currently developing 2D/3D games focused on **clean architecture** and **optimization**, looking for **Internship opportunities**.
 
 </div>
 
@@ -28,14 +28,16 @@
 ---
 
 ### 🔭 Currently Working On
+- ☕ **PixCoffee (Commercial Project):** Developing a WebGL-optimized Coffee Shop Simulation targeting **CrazyGames**. 
+  - *Key Tech:* **ScriptableObject** architecture for scalable data, **Object Pooling** for memory management, and advanced AI behaviors.
 - 🛡️ **Co-Op 3D Game:** Developing a multiplayer game with a team using Unity & Mirror.
-- 📱 **Mobile Projects:** Hyper-casual mechanics and optimization.
 
-
+---
 
 ### 🚀 My Projects (Pinned)
 | Project | Description | Tech |
 | :--- | :--- | :--- |
+| **PixCoffee** (In Progress) | A casual simulation game optimized for WebGL/Mobile browsers with high retention loops. | C#, Unity WebGL |
 | **2DCoopPlatformerMirror** | Real-time Co-op multiplayer puzzle game using **Mirror**. Features a robust character controller built with **Finite State Machine (FSM)**. | C#, Unity, Mirror |
 | **HopHop2D_Runner** | An endless runner game with dynamic obstacle generation and Object Pooling system. | C#, Unity 2D |
 | **2DCombatMobile** | Mobile combat mechanics testing and touch input systems. | C#, Unity Mobile |
@@ -61,7 +63,7 @@
   <a href="mailto:efesimsek0535@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="ITCH_IO_LINKIN_VARSA">
+  <a href="https://efesmsk05.itch.io/">
     <img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white" />
   </a>
 
