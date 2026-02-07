@@ -46,18 +46,15 @@
 
 ### 📊 GitHub Stats
 <div align="center">
-  
-  <a href="https://github.com/efesmsk05">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=efesmsk05&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true" />
-  </a>
 
-  <a href="https://github.com/efesmsk05">
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=efesmsk05&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-  </a>
-  
-  <a href="https://github.com/efesmsk05">
-    <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=efesmsk05&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-  </a>
+| <a href="https://github.com/efesmsk05"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=efesmsk05&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" /></a> | <a href="https://github.com/efesmsk05"><img align="center" src="https://github-readme-stats.vercel.app/api?username=efesmsk05&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true&include_all_commits=true" /></a> |
+| :---: | :---: |
+
+<br>
+
+<a href="https://github.com/efesmsk05">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=efesmsk05&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Streak" />
+</a>
 
 </div>
 ---
