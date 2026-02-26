@@ -8,7 +8,6 @@
 
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3pyYnhld3FuN3d0ZnJ3MGNraW9vNWc0ank4OWU1dGxua2pueXlyaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Rpl1sod1vCXK0L2SUN/giphy.gif" width="500" height="283" alt="Game Dev Banner"/>
   
-  
   ---
   
   I am a second-year **Game Development** student at **Ege University**. I am passionate about creating immersive mechanics and polished gameplay experiences. Currently developing 2D/3D games focused on **clean architecture**, **optimization**, and **custom shaders**, looking for **Internship opportunities**.
@@ -38,10 +37,10 @@
 ### 🚀 My Projects (Pinned)
 | Project | Description | Tech |
 | :--- | :--- | :--- |
-| **[3D Horror Project](BURAYA_HORROR_REPO_LİNKİNİ_KOY)** (Showcase) | Atmospheric horror vertical slice. Features custom **PSX/Pixel Shaders**, semi-transparent materials, interactive UI, and robust **State Machine** & ScriptableObject architecture. | C#, Shader Graph, Unity 3D |
-| **[PixCoffee](BURAYA_PİXCOFFEE_REPO_LİNKİNİ_KOY)** (In Progress) | A casual simulation game optimized for WebGL/Mobile browsers with high retention loops. | C#, Unity WebGL |
-| **[2DCoopPlatformerMirror](BURAYA_REPO_LİNKİNİ_KOY)** | Real-time Co-op multiplayer puzzle game using **Mirror**. Features a robust character controller built with **Finite State Machine (FSM)**. | C#, Unity, Mirror |
-| **[HopHop2D_Runner](BURAYA_REPO_LİNKİNİ_KOY)** | An endless runner game with dynamic obstacle generation and Object Pooling system. | C#, Unity 2D |
+| **[PixCoffee](https://github.com/efesmsk05/TimeManagementGameRepo)** (In Progress) | A casual simulation game optimized for WebGL/Mobile browsers with high retention loops. | C#, Unity WebGL |
+| **[2DCoopPlatformerMirror](https://github.com/efesmsk05/2D-MIRROR-PLATFORMER)** | Real-time Co-op multiplayer puzzle game using **Mirror**. Features a robust character controller built with **Finite State Machine (FSM)**. | C#, Unity, Mirror |
+| **[3D Horror Project](https://github.com/efesmsk05/HorroGameRepo)** (Showcase) | Atmospheric horror vertical slice. Features custom **PSX/Pixel Shaders**, semi-transparent materials, interactive UI, and robust **State Machine** & ScriptableObject architecture. | C#, Shader Graph, Unity 3D |
+| **[HopHop2D_Runner](https://github.com/efesmsk05/HopHop2D_Runner)** | An endless runner game with dynamic obstacle generation and Object Pooling system. | C#, Unity 2D |
 
 ---
 
