@@ -11,7 +11,7 @@
   
   ---
   
-  I am a second-year **Game Development** student at **Ege University**. I am passionate about creating immersive mechanics and polished gameplay experiences. Currently developing 2D/3D games focused on **clean architecture** and **optimization**, looking for **Internship opportunities**.
+  I am a second-year **Game Development** student at **Ege University**. I am passionate about creating immersive mechanics and polished gameplay experiences. Currently developing 2D/3D games focused on **clean architecture**, **optimization**, and **custom shaders**, looking for **Internship opportunities**.
 
 </div>
 
@@ -20,6 +20,7 @@
 <div align="center">
   <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" />
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/Shader_Graph-4B0082?style=for-the-badge&logo=unity&logoColor=white" />
   <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Blender-e87d0d?style=for-the-badge&logo=blender&logoColor=white" />
@@ -37,10 +38,10 @@
 ### 🚀 My Projects (Pinned)
 | Project | Description | Tech |
 | :--- | :--- | :--- |
-| **PixCoffee** (In Progress) | A casual simulation game optimized for WebGL/Mobile browsers with high retention loops. | C#, Unity WebGL |
-| **2DCoopPlatformerMirror** | Real-time Co-op multiplayer puzzle game using **Mirror**. Features a robust character controller built with **Finite State Machine (FSM)**. | C#, Unity, Mirror |
-| **HopHop2D_Runner** | An endless runner game with dynamic obstacle generation and Object Pooling system. | C#, Unity 2D |
-| **2DCombatMobile** | Mobile combat mechanics testing and touch input systems. | C#, Unity Mobile |
+| **[3D Horror Project](BURAYA_HORROR_REPO_LİNKİNİ_KOY)** (Showcase) | Atmospheric horror vertical slice. Features custom **PSX/Pixel Shaders**, semi-transparent materials, interactive UI, and robust **State Machine** & ScriptableObject architecture. | C#, Shader Graph, Unity 3D |
+| **[PixCoffee](BURAYA_PİXCOFFEE_REPO_LİNKİNİ_KOY)** (In Progress) | A casual simulation game optimized for WebGL/Mobile browsers with high retention loops. | C#, Unity WebGL |
+| **[2DCoopPlatformerMirror](BURAYA_REPO_LİNKİNİ_KOY)** | Real-time Co-op multiplayer puzzle game using **Mirror**. Features a robust character controller built with **Finite State Machine (FSM)**. | C#, Unity, Mirror |
+| **[HopHop2D_Runner](BURAYA_REPO_LİNKİNİ_KOY)** | An endless runner game with dynamic obstacle generation and Object Pooling system. | C#, Unity 2D |
 
 ---
 
@@ -57,6 +58,7 @@
 </a>
 
 </div>
+
 ---
 
 <div align="center">
