@@ -19,27 +19,28 @@
 <div align="center">
   <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" />
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/WebGL-990000?style=for-the-badge&logo=webgl&logoColor=white" />
   <img src="https://img.shields.io/badge/Shader_Graph-4B0082?style=for-the-badge&logo=unity&logoColor=white" />
   <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Blender-e87d0d?style=for-the-badge&logo=blender&logoColor=white" />
 </div>
 
 ---
 
-### 🔭 Currently Working On
-- ☕ **PixCoffee (Commercial Project):** Developing a WebGL-optimized Coffee Shop Simulation targeting **CrazyGames**. 
-  - *Key Tech:* **ScriptableObject** architecture for scalable data, **Object Pooling** for memory management, and advanced AI behaviors.
+### 🔭 Current Focus & Recent Launches
+- 🎉 **Just Launched:** **[Tower Smash](https://github.com/efesmsk05/Tower-Smash-)** is now in **Base Launch** on **CrazyGames**! My first full-release WebGL project focusing on procedural generation and high retention loops.
 - 🛡️ **Co-Op 3D Game:** Developing a multiplayer game with a team using Unity & Mirror.
+- ☕ **PixCoffee (On Hold):** Developing a WebGL-optimized Coffee Shop Simulation targeting CrazyGames. Focused on FSM and Object Pooling.
 
 ---
 
 ### 🚀 My Projects (Pinned)
 | Project | Description | Tech |
 | :--- | :--- | :--- |
-| **[PixCoffee](https://github.com/efesmsk05/TimeManagementGameRepo)** (In Progress) | A casual simulation game optimized for WebGL/Mobile browsers with high retention loops. | C#, Unity WebGL |
+| **[Tower Smash](https://github.com/efesmsk05/Tower-Smash-)** 🏰 *(Base Launch)* | **Playable on CrazyGames!** A highly optimized hyper-casual destruction game. Features a procedural modular building system, Pixel-to-3D generator tool, and aggressive WebGL optimizations (Texture Atlasing, Pooling). | C#, Unity WebGL |
+| **[PixCoffee](https://github.com/efesmsk05/TimeManagementGameRepo)** *(In Progress)* | A casual simulation game optimized for WebGL/Mobile browsers. Built with **ScriptableObject** architecture and advanced FSM AI behaviors. | C#, Unity WebGL |
 | **[2DCoopPlatformerMirror](https://github.com/efesmsk05/2D-MIRROR-PLATFORMER)** | Real-time Co-op multiplayer puzzle game using **Mirror**. Features a robust character controller built with **Finite State Machine (FSM)**. | C#, Unity, Mirror |
-| **[3D Horror Project](https://github.com/efesmsk05/HorroGameRepo)** (Showcase) | Atmospheric horror vertical slice. Features custom **PSX/Pixel Shaders**, semi-transparent materials, interactive UI, and robust **State Machine** & ScriptableObject architecture. | C#, Shader Graph, Unity 3D |
+| **[3D Horror Project](https://github.com/efesmsk05/HorroGameRepo)** *(Showcase)* | Atmospheric horror vertical slice. Features custom **PSX/Pixel Shaders**, semi-transparent materials, interactive UI, and robust **State Machine**. | C#, Shader Graph, Unity 3D |
 | **[HopHop2D_Runner](https://github.com/efesmsk05/HopHop2D_Runner)** | An endless runner game with dynamic obstacle generation and Object Pooling system. | C#, Unity 2D |
 
 ---
